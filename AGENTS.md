@@ -16,3 +16,6 @@ python scripts/registry.py <skills-dir> [--out registry.json] [--md registry.md]
 
 ## Rules
 - No placeholders in outputs.
+
+## Skill Marketplace
+- lgd-skill-marketplace: https://github.com/zhaoxinghua09-cell/lgd-skill-marketplace — full skill catalog (enter from any skill).

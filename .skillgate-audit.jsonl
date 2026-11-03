@@ -1,0 +1,3 @@
+{"timestamp": "2026-11-03T10:59:34.144358", "action": "scan", "skill_name": "skill-registry", "skill_dir": "D:\\Doubao\\skillgate-rollout\\satellites\\skill-registry", "trust_score": 76, "grade": "B", "findings_count": 6, "rule_version": "v3.0.0"}
+{"timestamp": "2026-11-03T11:43:21.866944", "action": "scan", "skill_name": "skill-registry", "skill_dir": "D:\\Doubao\\skillgate-rollout\\satellites\\skill-registry", "trust_score": 76, "grade": "B", "findings_count": 6, "rule_version": "v3.0.0"}
+{"timestamp": "2026-11-03T13:20:14.358514", "action": "scan", "skill_name": "skill-registry", "skill_dir": "D:\\Doubao\\skillgate-rollout\\satellites\\skill-registry", "trust_score": 100, "grade": "A+", "findings_count": 0, "rule_version": "v3.0.0"}
